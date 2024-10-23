@@ -1,0 +1,25 @@
+body {
+    background-image: url("фф.jpg");
+    background-size: cover;
+}
+
+div {
+    background-color: rgb(14, 228, 217);
+    max-width: 800px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.pink{
+color: rgb(255, 255, 255);
+}
+#best{
+    color: rgb(212, 181, 0);
+}
+ol,ul{
+    font-size: 24px;
+}
